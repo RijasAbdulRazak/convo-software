@@ -22,9 +22,10 @@
   --thm-reey-font: 'reeyregular';
   --thm-gray: #636363;
   --thm-gray-rgb: 99, 99, 99;
-  --thm-base: #d4f843;
+  /* --thm-base: #d4f843; */
+  --thm-base: rgb(0, 107, 30);
   --thm-base-rgb: 212, 248, 67;
-  --thm-black: #181818;
+  --thm-black: #221f3c;
   --thm-black-rgb: 24, 24, 24;
   --thm-black2: #080e25;
   --thm-black2-rgb: 8, 14, 37;
@@ -4416,7 +4417,7 @@ Team One
   position: relative;
   display: block;
   background: var(--thm-black2);
-  padding: 400px 0px 80px;
+  padding: 80px 0px 80px;
   z-index: 1;
 }
 
