@@ -1510,7 +1510,7 @@ animation: spinner 1s infinite linear;
 .main-menu .main-menu__list>li>a,
 .stricky-header .main-menu__list>li>a {
   position: relative;
-  color: #ffffff;
+  color: #221f3c;
   font-size: 15px;
   line-height: 25px;
   font-weight: 600;
@@ -1973,8 +1973,9 @@ Main Header One
 .main-header-one__bottom {
   position: relative;
   display: block;
-  background: transparent;
-  margin-top: 20px;
+  background: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .main-header-one__bottom-inner {
@@ -2067,7 +2068,7 @@ Main Header One
 
 
 .stricky-header.stricky-header--one .main-menu__wrapper {
-  background: var(--thm-black2);
+  background: #ffffff;
 }
 
 .stricky-header.stricky-header--one .main-header-one__bottom-middle {
